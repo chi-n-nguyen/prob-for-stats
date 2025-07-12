@@ -1,5 +1,5 @@
-content covered: discrete distributions, continuous distributions, multivariate distributions, the normal distribution, stochastic process & markov chains
+Content covered: Discrete distributions, Continuous distributions, Mltivariate distributions, The normal distribution, Stochastic process & Markov chains
 
-lecturer & tutor: Dr. Yao-ban Chan 
+Lecturer & Tutor: Dr. Yao-ban Chan 
 
 
